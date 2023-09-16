@@ -1,3 +1,4 @@
+Angela Halsten 9/16/23
 # streaming-04-multiple-consumers
 
 > Use RabbitMQ to distribute tasks to multiple workers
@@ -57,4 +58,4 @@ Which worker gets which tasks?
 
 ## Screenshot
 
-See a running example with at least 3 concurrent process windows here:
+See a running example with at least 3 concurrent process windows here:![Alt text](<Screenshot 2023-09-16 110214.png>)

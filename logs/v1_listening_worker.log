@@ -1,0 +1,11 @@
+2023-09-16 11:28:00,668.v1_listening_worker.INFO ==================================================
+2023-09-16 11:28:00,668.v1_listening_worker.INFO Today is 2023-09-16 at 11:28 AM
+2023-09-16 11:28:00,669.v1_listening_worker.INFO Running on: nt Windows 10
+2023-09-16 11:28:00,669.v1_listening_worker.INFO Python version:  3.9.12
+2023-09-16 11:28:00,670.v1_listening_worker.INFO Python path: C:\Users\alhal\miniconda3
+2023-09-16 11:28:00,670.v1_listening_worker.INFO Working dir: C:\Users\alhal\OneDrive\Documents\44-671\streaming-04-multiple-consumers
+2023-09-16 11:28:00,670.v1_listening_worker.INFO ==================================================
+2023-09-16 11:28:00,684.v1_listening_worker.INFO  [*] Ready for work. To exit press CTRL+C
+2023-09-16 11:29:33,304.v1_listening_worker.INFO  [x] Received Eigth Message
+2023-09-16 11:29:33,305.v1_listening_worker.INFO  [x] Done
+

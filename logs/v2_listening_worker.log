@@ -1,0 +1,15 @@
+2023-09-16 11:39:31,812.v2_listening_worker.INFO ==================================================
+2023-09-16 11:39:31,812.v2_listening_worker.INFO Today is 2023-09-16 at 11:39 AM
+2023-09-16 11:39:31,813.v2_listening_worker.INFO Running on: nt Windows 10
+2023-09-16 11:39:31,813.v2_listening_worker.INFO Python version:  3.9.12
+2023-09-16 11:39:31,814.v2_listening_worker.INFO Python path: C:\Users\alhal\miniconda3
+2023-09-16 11:39:31,814.v2_listening_worker.INFO Working dir: C:\Users\alhal\OneDrive\Documents\44-671\streaming-04-multiple-consumers
+2023-09-16 11:39:31,814.v2_listening_worker.INFO ==================================================
+2023-09-16 11:39:31,831.v2_listening_worker.INFO  [*] Ready for work. To exit press CTRL+C
+2023-09-16 11:41:04,795.v2_listening_worker.INFO  [x] Received Third Task
+2023-09-16 11:41:04,795.v2_listening_worker.INFO  [x] Done.
+2023-09-16 11:41:47,295.v2_listening_worker.INFO  [x] Received Fifth Task
+2023-09-16 11:41:47,295.v2_listening_worker.INFO  [x] Done.
+x] Done.
+2023-09-16 11:41:26,661.v2_listening_worker.INFO  [x] Received Fourth Task
+2023-09-16 11:41:26,661.v2_listening_worker.INFO  [x] Done.
