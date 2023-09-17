@@ -50,6 +50,10 @@ How are tasks distributed?
 Monitor the windows with at least two workers. 
 Which worker gets which tasks?
 
+## Version 3
+Added def stream_row to open the csv file
+set message = " ".join(row)
+then run the def send_message
 
 ## Reference
 
@@ -59,3 +63,4 @@ Which worker gets which tasks?
 ## Screenshot
 
 See a running example with at least 3 concurrent process windows here:![Alt text](<Screenshot 2023-09-16 110214.png>)
+![Alt text](<Screenshot 2023-09-17 144605.png>)
